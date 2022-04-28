@@ -1,1 +1,2 @@
-console.log("Hello world");
+const mavariable = process.env['MAVARIABLE'];
+console.log(mavariable);
